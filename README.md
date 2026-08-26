@@ -13,3 +13,5 @@ Some exercises have been modified with examples related to topics I enjoy, while
 ## Note
 
 Some of the earlier exercises contain comments and examples in Portuguese, as I was getting started with Python and did not initially intend to publish this repository. From Day 5 onward, I am gradually standardizing the code and comments in English.
+
+I am trying to do 2 days of the challenge per day because I'm on a one month break from my university, before the classes resume
