@@ -1,0 +1,16 @@
+{% extends 'layout.html' %} 
+{% block content %}
+<div class="container">
+  <h1>Welcome to {{ name }}</h1>
+  <p>
+    This application cleans texts and analyses the number of words, characters, and
+    most frequent words in the text. Check it out by clicking text analyzer in the
+    menu.
+  </p>
+  <ul class="tech-lists">
+    {% for tech in techs %}
+    <li class="tech">{{ tech }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}
